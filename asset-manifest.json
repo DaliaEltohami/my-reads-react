@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-reads-react/static/css/main.ea237ff3.css",
+    "main.js": "/my-reads-react/static/js/main.d1b816b8.js",
+    "index.html": "/my-reads-react/index.html",
+    "static/media/arrow-back.svg": "/my-reads-react/static/media/arrow-back.cd079cab42defead9875.svg",
+    "static/media/add.svg": "/my-reads-react/static/media/add.1b5d9b6afb5557f7992c.svg",
+    "static/media/arrow-drop-down.svg": "/my-reads-react/static/media/arrow-drop-down.4378492a3a09dbfc31ff.svg",
+    "main.ea237ff3.css.map": "/my-reads-react/static/css/main.ea237ff3.css.map",
+    "main.d1b816b8.js.map": "/my-reads-react/static/js/main.d1b816b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea237ff3.css",
+    "static/js/main.d1b816b8.js"
+  ]
+}
